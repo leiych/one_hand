@@ -1,0 +1,381 @@
+{
+  "sales_rank": 47,
+  "first_sale_date": "2026-11-09",
+  "action_value": "0",
+  "alone_discount": "",
+  "alone_price": "",
+  "brand_name": "吉吉轻奢女包",
+  "cat_id": "361",
+  "df_shop_price": 0,
+  "enough_number": "1",
+  "exclusive_shop_price": 0,
+  "fabric_desc": "",
+  "first_sale_period": "3818",
+  "first_sale_time": "20261109",
+  "goods_gif": "",
+  "goods_id": "344457777",
+  "goods_img": "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/e2528ceee55329d16da7e591ad39de39.jpg?x-oss-process=image/quality,q_90/resize,w_600/format,webp",
+  "goods_in_stock": "",
+  "goods_kh": "MG2226",
+  "goods_name": "秋冬上新【吉吉轻奢女包】韩系毛绒豹纹手提包氛围感小众百搭女包带挂件单肩腋下女包单肩包(配带挂件)  MG2226#  YJYJ",
+  "goods_no": "1386100716",
+  "goods_status": "1",
+  "goods_style": "",
+  "goods_thumb": "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/e2528ceee55329d16da7e591ad39de39.jpg?x-oss-process=image/quality,q_90/resize,w_600/format,webp",
+  "goods_video": "",
+  "is_action": "0",
+  "is_new": "0",
+  "is_on_sale": "1",
+  "is_replenish": "",
+  "is_stockout": "0",
+  "market_id": "705",
+  "old_price": "0.00",
+  "one_market_name": "广深鞋包饰品",
+  "pgm_recommend_desc": "",
+  "sales": "8",
+  "sales_of_7": 86,
+  "shop_price": "54.64",
+  "shoppe_discount": "",
+  "shoppe_price": "",
+  "special_id": "614388",
+  "special_remark": "",
+  "special_status": "2",
+  "supply_id": "40932",
+  "tag_type": [],
+  "video_duration": "",
+  "video_status": "0",
+  "video_url": "",
+  "vip_discount": "",
+  "vip_price": "",
+  "action_note": "",
+  "advance_info": {},
+  "format_first_sale_time": "7天前上新",
+  "before_name_tags": [],
+  "tag_list": [],
+  "percentage_return_goods_df": [],
+  "is_shipping_in_24h": "0",
+  "new_good_tag_url": "",
+  "new_good_tag_name": "",
+  "new_good_tag_id": 0,
+  "supply_good_tag_url": "",
+  "goods_img_1_to_1": "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/e2528ceee55329d16da7e591ad39de39.jpg?x-oss-process=image/quality,q_90/resize,w_600/format,webp",
+  "goods_img_210_to_174": "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/e2528ceee55329d16da7e591ad39de39.jpg?x-oss-process=image/quality,q_90/resize,w_600/format,webp",
+  "goods_img_normal_1_to_1": "",
+  "goods_img_normal_210_to_174": "",
+  "main_img": "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/e2528ceee55329d16da7e591ad39de39.jpg?x-oss-process=image/quality,q_90/resize,w_600/format,webp",
+  "not_pd": "",
+  "is_alone_discount": 0,
+  "collect_id": "0",
+  "is_reshelf": "0",
+  "good_tag_url": "",
+  "cart_num": "0",
+  "rec_id": "0",
+  "picker_group_member": {},
+  "region_limit": "0",
+  "wholesale_price": "",
+  "wholesale_price_img": "",
+  "wholesale_price_text": "",
+  "is_apply_replenishment": "1",
+  "true_id": "344457777",
+  "is_live": "0",
+  "vip_discount_topic": "",
+  "vip_price_topic": "",
+  "sale_note": "今日已拼8件",
+  "collect_price_diff_note": "",
+  "activity_platform_tips": "",
+  "discount_label": [],
+  "discount_tags_list": [],
+  "new_user_exclusive_status": "0",
+  "billboard_route": {},
+  "rebate_tag": "",
+  "bottom_tags": [
+    {
+      "border_color": "",
+      "border_radius": "2",
+      "type": "coupon",
+      "label_url": "",
+      "width": "",
+      "height": "",
+      "content": [
+        {
+          "text": "30元红包",
+          "color": "f13685",
+          "background_color": "",
+          "bold": "0"
+        }
+      ]
+    }
+  ],
+  "goods_info_tags": [],
+  "goods_info_tags_v7210": [
+    {
+      "border_color": "",
+      "border_radius": "2",
+      "type": "first_sale",
+      "label_url": "",
+      "width": "",
+      "height": "",
+      "content": [
+        {
+          "text": "7天前上新",
+          "color": "999999",
+          "background_color": "",
+          "bold": "0"
+        }
+      ]
+    },
+    {
+      "border_color": "",
+      "border_radius": "2",
+      "type": "coupon",
+      "label_url": "",
+      "width": "",
+      "height": "",
+      "content": [
+        {
+          "text": "30元红包",
+          "color": "f13685",
+          "background_color": "",
+          "bold": "0"
+        }
+      ]
+    }
+  ],
+  "goods_name_without_brand_name": "秋冬上新韩系毛绒豹纹手提包氛围感小众百搭女包带挂件单肩腋下女包单肩包(配带挂件)  MG2226#  YJYJ",
+  "goods_img_sku": "",
+  "member_exclusive_text": "",
+  "price_level": "",
+  "main_image_tag_type": "0",
+  "strategy_id": "",
+  "goods_seat_id": "",
+  "is_operat": "",
+  "detail": {
+    "goods_id": "344457777",
+    "goods_no": "1386100716",
+    "goods_name": "秋冬上新【吉吉轻奢女包】韩系毛绒豹纹手提包氛围感小众百搭女包带挂件单肩腋下女包单肩包(配带挂件)  MG2226#  YJYJ",
+    "cat_id": "361",
+    "cat_name": "单肩包",
+    "shop_price": "54.64",
+    "alone_price": "54.64",
+    "goods_in_stock": "",
+    "is_show_stock": "0",
+    "is_stockout": "0",
+    "size": "均码",
+    "size_chart": [],
+    "goods_thumb": "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/e2528ceee55329d16da7e591ad39de39.jpg",
+    "goods_img": [
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/e2528ceee55329d16da7e591ad39de39.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/0cd5851afc7acc6b18ce10e61ae85ee7.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/f9745aaeb27495c5c7a4ca829cd4e369.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/f5d5cc72be10a507367ff3648aa158a9.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/c48b794339fe9d7b69accd8c1bc81c15.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/109fdfacafc35bd52c8a3bd5f283f8c2.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/6035b4fe704ad5054db82865d03da365.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/46462e6cfc9da099a088e1e61b3daf37.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/4f5cf7399f0eccb740552580177aa8a4.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/945bff0e4e3db1875736d88884b1e517.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/235f3e5c1bb5b5d1b36090f564e147b0.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/8019f5b277a9c1ea6e2793185035e08e.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/4d4f2b35273850d367e0ceaf083c457f.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/a2704c084aec629aeec79e5ca3f5c88e.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/5fa9d22c0111e7a62602210f3bf1638e.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/3826ae55551e3f4fb5b3698f1fdc6bae.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/dfe7b95e1bd1f6d2ccfbf1d26bf06227.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/a9a07104e5373d5a66d1bfd830216153.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/508b88f4047713976be8b9d4355f1a8b.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/3ea1158545085c2253ebbe3847b3943c.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp"
+    ],
+    "good_download_pics": [
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/e2528ceee55329d16da7e591ad39de39.jpg?x-oss-process=image/quality,q_95/resize,w_1600",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/0cd5851afc7acc6b18ce10e61ae85ee7.jpg?x-oss-process=image/quality,q_95/resize,w_1600",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/f9745aaeb27495c5c7a4ca829cd4e369.jpg?x-oss-process=image/quality,q_95/resize,w_1600",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/f5d5cc72be10a507367ff3648aa158a9.jpg?x-oss-process=image/quality,q_95/resize,w_1600",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/c48b794339fe9d7b69accd8c1bc81c15.jpg?x-oss-process=image/quality,q_95/resize,w_1600",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/109fdfacafc35bd52c8a3bd5f283f8c2.jpg?x-oss-process=image/quality,q_95/resize,w_1600",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/6035b4fe704ad5054db82865d03da365.jpg?x-oss-process=image/quality,q_95/resize,w_1600",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/46462e6cfc9da099a088e1e61b3daf37.jpg?x-oss-process=image/quality,q_95/resize,w_1600",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/4f5cf7399f0eccb740552580177aa8a4.jpg?x-oss-process=image/quality,q_95/resize,w_1600",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/945bff0e4e3db1875736d88884b1e517.jpg?x-oss-process=image/quality,q_95/resize,w_1600",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/235f3e5c1bb5b5d1b36090f564e147b0.jpg?x-oss-process=image/quality,q_95/resize,w_1600",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/8019f5b277a9c1ea6e2793185035e08e.jpg?x-oss-process=image/quality,q_95/resize,w_1600",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/4d4f2b35273850d367e0ceaf083c457f.jpg?x-oss-process=image/quality,q_95/resize,w_1600",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/a2704c084aec629aeec79e5ca3f5c88e.jpg?x-oss-process=image/quality,q_95/resize,w_1600",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/5fa9d22c0111e7a62602210f3bf1638e.jpg?x-oss-process=image/quality,q_95/resize,w_1600",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/3826ae55551e3f4fb5b3698f1fdc6bae.jpg?x-oss-process=image/quality,q_95/resize,w_1600",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/dfe7b95e1bd1f6d2ccfbf1d26bf06227.jpg?x-oss-process=image/quality,q_95/resize,w_1600",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/a9a07104e5373d5a66d1bfd830216153.jpg?x-oss-process=image/quality,q_95/resize,w_1600",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/508b88f4047713976be8b9d4355f1a8b.jpg?x-oss-process=image/quality,q_95/resize,w_1600",
+      "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/3ea1158545085c2253ebbe3847b3943c.jpg?x-oss-process=image/quality,q_95/resize,w_1600",
+      "https://img4.yishouapp.com/obs/sizeChartWithPadding0_w2ri0yn4m5g.png?x-oss-process=image/quality,q_95/resize,w_1600"
+    ],
+    "goods_video": "",
+    "goods_desc": "",
+    "desc": "1件成团，已拼8件",
+    "desc2": "",
+    "describe": [],
+    "fabric_desc": "",
+    "fabric_tag": "",
+    "tiered_prices_list": [
+      {
+        "tiered_prices_threshold": "1",
+        "tiered_prices_amount": "54.64",
+        "tiered_prices_threshold_text": "1件起批",
+        "tiered_prices_tag": ""
+      },
+      {
+        "tiered_prices_threshold": "5",
+        "tiered_prices_amount": "48",
+        "tiered_prices_threshold_text": "≥5件",
+        "tiered_prices_tag": "批量采购价"
+      }
+    ],
+    "attribute": [
+      {
+        "color": "绿色",
+        "color_id": "1031",
+        "color_card": "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/cda38e03e81f733b66bc6ffb4b0453f3.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "card_thumb": "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/cda38e03e81f733b66bc6ffb4b0453f3.jpg?x-oss-process=image/quality,q_90/resize,w_150,h_150/format,webp",
+        "item": [
+          {
+            "sku": "87542187",
+            "size": "均码",
+            "stock": "50",
+            "sale_stock": "50",
+            "share_stock": 0,
+            "is_show_stock": "0",
+            "is_stock_now": "0",
+            "sale_stock_now_desc": ""
+          }
+        ]
+      },
+      {
+        "color": "棕色",
+        "color_id": "1151",
+        "color_card": "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/d5a7db50bcde73ad6eb801c1f32228f8.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "card_thumb": "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/d5a7db50bcde73ad6eb801c1f32228f8.jpg?x-oss-process=image/quality,q_90/resize,w_150,h_150/format,webp",
+        "item": [
+          {
+            "sku": "87542184",
+            "size": "均码",
+            "stock": "49",
+            "sale_stock": "49",
+            "share_stock": 0,
+            "is_show_stock": "0",
+            "is_stock_now": "0",
+            "sale_stock_now_desc": ""
+          }
+        ]
+      },
+      {
+        "color": "咖色",
+        "color_id": "1278",
+        "color_card": "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/8544793453d6857b123b46d9a3786acd.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "card_thumb": "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/8544793453d6857b123b46d9a3786acd.jpg?x-oss-process=image/quality,q_90/resize,w_150,h_150/format,webp",
+        "item": [
+          {
+            "sku": "87542183",
+            "size": "均码",
+            "stock": "50",
+            "sale_stock": "50",
+            "share_stock": 0,
+            "is_show_stock": "0",
+            "is_stock_now": "0",
+            "sale_stock_now_desc": ""
+          }
+        ]
+      },
+      {
+        "color": "卡其色",
+        "color_id": "2033",
+        "color_card": "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/5c6c54f961a588368b13a4897b87d480.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "card_thumb": "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/5c6c54f961a588368b13a4897b87d480.jpg?x-oss-process=image/quality,q_90/resize,w_150,h_150/format,webp",
+        "item": [
+          {
+            "sku": "87542185",
+            "size": "均码",
+            "stock": "50",
+            "sale_stock": "50",
+            "share_stock": 0,
+            "is_show_stock": "0",
+            "is_stock_now": "0",
+            "sale_stock_now_desc": ""
+          }
+        ]
+      },
+      {
+        "color": "米白色",
+        "color_id": "2281",
+        "color_card": "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/8ff2507b0c134488ea6eaff954fcc847.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "card_thumb": "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/8ff2507b0c134488ea6eaff954fcc847.jpg?x-oss-process=image/quality,q_90/resize,w_150,h_150/format,webp",
+        "item": [
+          {
+            "sku": "87542186",
+            "size": "均码",
+            "stock": "50",
+            "sale_stock": "50",
+            "share_stock": 0,
+            "is_show_stock": "0",
+            "is_stock_now": "0",
+            "sale_stock_now_desc": ""
+          }
+        ]
+      }
+    ],
+    "goods_img_by_type": {
+      "model": [
+        "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/e2528ceee55329d16da7e591ad39de39.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/0cd5851afc7acc6b18ce10e61ae85ee7.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/f9745aaeb27495c5c7a4ca829cd4e369.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/f5d5cc72be10a507367ff3648aa158a9.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/c48b794339fe9d7b69accd8c1bc81c15.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/109fdfacafc35bd52c8a3bd5f283f8c2.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/6035b4fe704ad5054db82865d03da365.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp"
+      ],
+      "real": [
+        "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/235f3e5c1bb5b5d1b36090f564e147b0.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/8019f5b277a9c1ea6e2793185035e08e.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/4d4f2b35273850d367e0ceaf083c457f.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/a2704c084aec629aeec79e5ca3f5c88e.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/5fa9d22c0111e7a62602210f3bf1638e.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/3826ae55551e3f4fb5b3698f1fdc6bae.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/dfe7b95e1bd1f6d2ccfbf1d26bf06227.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/a9a07104e5373d5a66d1bfd830216153.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/508b88f4047713976be8b9d4355f1a8b.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/3ea1158545085c2253ebbe3847b3943c.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp"
+      ],
+      "size": [
+        "https://img4.yishouapp.com/obs/sizeChartWithPadding0_w2ri0yn4m5g.png"
+      ],
+      "info": [
+        "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/46462e6cfc9da099a088e1e61b3daf37.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/4f5cf7399f0eccb740552580177aa8a4.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp",
+        "https://img4.yishouapp.com/obs/baoban_web/2026/11/08/945bff0e4e3db1875736d88884b1e517.jpg?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp"
+      ],
+      "extra": [
+        "https://static3.yishouapp.com/obs/tools/def/2026/8/12/73274e170edec2c56e92499498cbf1b2.png"
+      ],
+      "size_no_padding": [
+        "https://img4.yishouapp.com/obs/sizeChartNoPadding0_ju95alxcn8.png?x-oss-process=image/quality,q_95/resize,w_1000,limit_0/format,webp"
+      ]
+    },
+    "goods_page": {
+      "content_list": [
+        {
+          "title": "次品免费换",
+          "content": "购买商品后如遇次品问题，可免费换货，运费由平台承担，换货不成功自动转退货退款",
+          "link": "https://static.yishouapp.com/app/h5/production/screening-operate/index.html#/?id=139146",
+          "link_text": "什么是次品免费换"
+        }
+      ],
+      "title_list": [
+        {
+          "title": "次品免费换",
+          "color": "333333",
+          "bold": "0"
+        }
+      ]
+    },
+    "goods_page_remark": "商品不支持退货"
+  },
+  "supplier_style_code": "MG2226"
+}
